@@ -18,6 +18,8 @@ Verified closed funding rose from USD 5,298,942,983 over 176 counted rounds to U
 * **Grouping and duplicates:** Firefly Neuroscience's existing record was reviewed for double counting, and USD 2.25m is added.
 * **Status only, no USD change:** Araya, LivaNova and Nyxoah. New or corrected claims are recorded, but their amounts are not counted until a primary document can be checked.
 
+Organisations: 391, up from 390. NeuroRestore, a centre set up by the Defitech Foundation with EPFL, CHUV and UNIL, is added. Founding years are added from the organisations' own pages: ABILITY Neurotech (2025, from its March 2025 timeline) and the Allen Institute (2003). These additions do not change the funding totals.
+
 Each figure is dated and sourced on its organisation's page. Funding totals remain a floor: rounds not yet found are not included.
 
 Use at your own risk. See [the disclaimer](DISCLAIMER.md).
