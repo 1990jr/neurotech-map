@@ -1,6 +1,6 @@
 # Neurotech Landscape
 
-A sourced sample of neurotechnology organisations around the world. Snapshot: 2026-10-27.
+A sourced sample of neurotechnology organisations around the world. Snapshot: 2026-10-29.
 
 Explore organisations, funding and clinical trials in [the website](index.html). Figures are dated, incomplete and accompanied by source citations. Absence does not imply that an organisation or financing does not exist.
 
