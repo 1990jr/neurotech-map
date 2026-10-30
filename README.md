@@ -1,6 +1,6 @@
 # Neurotech Landscape
 
-A sourced sample of neurotechnology organisations around the world. Snapshot: 2026-10-29.
+A sourced sample of neurotechnology organisations around the world. Snapshot: 2026-10-30.
 
 Explore organisations, funding and clinical trials in [the website](index.html). Figures are dated, incomplete and accompanied by source citations. Absence does not imply that an organisation or financing does not exist.
 
@@ -8,17 +8,13 @@ Please credit Neurotech Landscape when using or sharing this resource and retain
 
 Licences: the website code (the HTML, CSS and JavaScript in index.html) is released under the MIT License (LICENSE). The compiled dataset is released under CC BY 4.0 (LICENSE-DATA). Third-party excerpts are excluded and remain subject to their owners' rights. The MIT License covers the code only: the data block embedded in index.html is not covered by it and is licensed under CC BY 4.0 as stated in LICENSE-DATA.
 
-## What changed in this snapshot (2026-10-29)
+## What changed in this snapshot (2026-10-30)
 
-Verified closed funding rose from USD 5,298,942,983 over 176 counted rounds to USD 6,424,656,032 over 199 counted rounds. Twenty-two organisations changed. The reasons are:
+Organisations: 410, up from 391. Nineteen companies listed on the neurofounders Start-up Map were researched, checked independently and added: Cortical Labs, Curonix, DOTSIFY, Encora Therapeutics, FinalSpark, Karavela, Koniku, Netholabs, NeurAxis, NeuroEM Therapeutics, neuropacs, Noctrix Health, QMENTA, QVITI, Resolve Stroke, Samphire Neuroscience, Sonomind, Stimvia and Universal Brain. None of them has a counted funding round yet, so verified closed funding is unchanged at USD 6,424,656,032 over 199 counted rounds.
 
-* **New rounds with a second source check:** Blackrock Neurotech (2021 and 2024), Insightec (2018), Nevro (IPO and debt), Inspire Medical (debt), Neuromod (equity, twice), Epitel (equity), ClearPoint Neuro (debt), Myomo, Neurinnov, Nexstim, Neuronostics, Neuspera (Series C), StairMed, OYMotion and BrainQ.
-* **Source reclassification:** ONWARD Medical's four closing releases are now counted, because Via Ritzau and NTB publish the issuer's own release text. The convertible loan and the IPO amount under reconciliation are still not counted.
-* **Corrections:** Envoy Medical's figure is USD 30m actually received, not a USD 78m potential ceiling. Neuroelectrics' USD 17.9m is no longer counted: the SEC filer is a Delaware issuer and the Spanish recipient and closing are not proven.
-* **Grouping and duplicates:** Firefly Neuroscience's existing record was reviewed for double counting, and USD 2.25m is added.
-* **Status only, no USD change:** Araya, LivaNova and Nyxoah. New or corrected claims are recorded, but their amounts are not counted until a primary document can be checked.
+Registration years: where a company register gives only a creation or incorporation date, the year is shown as a registration year, not a founding year (eight of the new organisations).
 
-Organisations: 391, up from 390. NeuroRestore, a centre set up by the Defitech Foundation with EPFL, CHUV and UNIL, is added. Founding years are added from the organisations' own pages: ABILITY Neurotech (2025, from its March 2025 timeline) and the Allen Institute (2003). These additions do not change the funding totals.
+Labels: information whose cited source could not be checked automatically, or that rests only on lower-ranked secondary sources, is now labelled "Not yet confirmed" instead of "Unconfirmed" (32 claims across 25 organisations). The descriptions of "Unsupported" and "Conflicting" now say what was checked. Funding that is recorded but not counted is labelled "not counted". No figure changed because of the new labels.
 
 Each figure is dated and sourced on its organisation's page. Funding totals remain a floor: rounds not yet found are not included.
 
